@@ -147,7 +147,10 @@ def main():
             break
         else:
             print("Некорректный ввод. Пожалуйста, выберите правильный вариант.")
-
+sasha = "gay"
+print("Саша гей ?")
+while sasha == "gay":
+    print("true")
 
 if __name__ == "__main__":
     main()
